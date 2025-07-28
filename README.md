@@ -19,7 +19,7 @@
 ## 🏆 Achievements
 
 - 🥇 **Global Rank 88** in CodeChef June Long Challenge.  
-- 🌍 Ranked **202, 529, 834, 848** in LeetCode Weekly & Biweekly Contests.  
+- 🌍 **Global Ranks 202, 529, 834, 848** in LeetCode Weekly & Biweekly Contests.  
 - 📈 **Top 3.13% on LeetCode**, with a highest contest rating of **1963**.  
 - 🧠 Published CNN-based dementia prediction research in Springer at IC3T 2022.  
 - ⭐ **5⭐ Python** and **5⭐ C++** coder on **HackerRank**.
