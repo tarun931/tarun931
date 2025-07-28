@@ -16,6 +16,16 @@
 
 ---
 
+## 🏆 Achievements
+
+- 🥇 **Global Rank 88** in CodeChef June Long Challenge.  
+- 🌍 Ranked **202, 529, 834, 848** in LeetCode Weekly & Biweekly Contests.  
+- 📈 **Top 3.13% on LeetCode**, with a highest contest rating of **1963**.  
+- 🧠 Published CNN-based dementia prediction research in Springer at IC3T 2022.  
+- ⭐ **5⭐ Python** and **5⭐ C++** coder on **HackerRank**.
+
+---
+
 ## 📁 Projects & Work
 
 - 🚀 **Prediction of Dementia using Deep Learning** – Published at 4th International Conference of Computer and Communication (IC3T) in Springer book. Developed a CNN-based model using brain MRI images with ReLU, sigmoid activation and binary cross-entropy loss. Achieved 99.40% training accuracy and 96.61% validation accuracy.  
