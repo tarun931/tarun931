@@ -6,6 +6,7 @@
 
 ## 👨‍💻 About Me
 
+🎓 Currently pursuing a Master’s in Data Science from Monash University, Melbourne.
 💡 I'm a tech enthusiast passionate about Machine Learning, Data Engineering, and Cloud Architecture.  
 🎓 Currently deep diving into advanced statistics, deep learning, and ML system design.  
 🔭 Working on full-stack ML projects with end-to-end deployment on AWS.  
@@ -17,8 +18,8 @@
 
 ## 📁 Projects & Work
 
-- 🚀 **Cloud Resume Challenge** – Deployed resume site on AWS using S3, CloudFront, Lambda, DynamoDB, GitHub Actions  
-- 📊 **Kaggle Notebooks** – Working on tabular competitions before moving into CV and NLP  
+- 🚀 **Prediction of Dementia using Deep Learning** – Published at 4th International Conference of Computer and Communication (IC3T) in Springer book. Developed a CNN-based model using brain MRI images with ReLU, sigmoid activation and binary cross-entropy loss. Achieved 99.40% training accuracy and 96.61% validation accuracy.
+- 📊 **Kaggle Competitions** –   Actively participating in Kaggle challenges to sharpen machine learning skills and apply advanced modeling techniques across diverse datasets, including computer vision and NLP.  
 - 🧪 **Signal to Velocity Field Modeling** – PyTorch models using CNNs, Transformers, ViTs, and Physics-Informed Neural Networks
 
 ---
@@ -36,7 +37,7 @@
 
 📫 Email: [tarunsinghcomedk@gmail.com]  
 🌐 LinkedIn: [www.linkedin.com/in/tarunsingh931]  
-🐦 Twitter: []
+🧩 LeetCode: [https://leetcode.com/u/tarunsingh931/](https://leetcode.com/u/tarunsingh931/)
 
 ---
 
