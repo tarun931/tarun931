@@ -35,8 +35,8 @@
 
 ## 💬 How to Reach Me
 
-📫 Email: [tarunsinghcomedk@gmail.com]  
-🌐 LinkedIn: [www.linkedin.com/in/tarunsingh931]  
+📫 Email: tarunsinghcomedk@gmail.com  
+🌐 LinkedIn: www.linkedin.com/in/tarunsingh931 
 🧩 LeetCode: [https://leetcode.com/u/tarunsingh931/](https://leetcode.com/u/tarunsingh931/)
 
 ---
