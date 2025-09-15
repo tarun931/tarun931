@@ -11,8 +11,8 @@
 🎓 Currently deep diving into advanced statistics, deep learning, and ML system design.  
 🔭 Working on full-stack ML projects with end-to-end deployment on AWS.  
 💪 I actively solve problems on **LeetCode**, with a **highest rating of 1963**, placing me in the **top 3.13% globally**.  
-🌱 Actively learning U-Net, signal-to-velocity modeling, and participating in Kaggle competitions.  
-🧠 Also exploring computational neuroscience and LLMs when time permits.
+🌱 Actively learning from participating in Kaggle competitions.  
+
 
 ---
 
