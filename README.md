@@ -30,7 +30,7 @@
 
 - 🚀 **Prediction of Dementia using Deep Learning** – Published at 4th International Conference of Computer and Communication (IC3T) in Springer book. Developed a CNN-based model using brain MRI images with ReLU, sigmoid activation and binary cross-entropy loss. Achieved  96.61% validation accuracy.  
 - 📊 **Kaggle Competitions** – Actively participating in Kaggle challenges to sharpen machine learning skills and apply advanced modeling techniques across diverse datasets, including computer vision and NLP.  
-- 🧪 **Signal to Velocity Field Modeling** – PyTorch models using CNNs, Transformers, ViTs, and Physics-Informed Neural Networks
+
 
 ---
 
