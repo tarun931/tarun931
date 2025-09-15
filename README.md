@@ -36,7 +36,7 @@
 
 ## ✍️ Latest Learning Stack
 
-- 📚 Sheldon Ross, Larry Wasserman, Casella & Berger for ML-Statistics  
+- 📚 Sheldon Ross for ML-Statistics  
 - 🧠 Deep Learning with PyTorch and TensorFlow  
 - ☁️ AWS, Docker, GitHub Actions, CI/CD  
 - 📈 Scikit-learn, Pandas, NumPy, SQL
